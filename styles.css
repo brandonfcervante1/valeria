@@ -1,0 +1,29 @@
+img{
+ width:250px;
+}
+h2{
+    color:red;
+    font-family: 'Petemoss', cursive;
+}
+p{
+    color:red;
+    font-family: 'Petemoss', cursive;
+}
+li{
+    color:red;
+}
+body{background-color:black;
+}
+body{
+    text-align: center;
+}
+
+.pink {
+    color:#1cb032;
+    font-style: italic;font-family: 'Monsieur La Doulaise', cursive;
+    font-size:30pt;
+}
+
+.money {
+    width:100px;
+}
